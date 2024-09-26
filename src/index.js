@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './components/wrappers/App';
 
-// Add bootstrap just to check
+// Add bootstrap just to 
 import 'bootstrap/dist/css/bootstrap.css';
 
 // Add our style
